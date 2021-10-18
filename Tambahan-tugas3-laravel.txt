@@ -1,0 +1,3 @@
+Tambahan :
+1. Menambahkan kolom jenis kelamin dan instagram pada database dan codingan
+2. Mengubah tampilan button edit teman dan delete teman
